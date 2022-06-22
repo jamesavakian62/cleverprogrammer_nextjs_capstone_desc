@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Screen Shot 2022-06-21 at 5 57 38 PM](https://user-images.githubusercontent.com/92414210/174921283-78be5240-c697-410c-b64a-5fb866914e89.png)
+
 
 ## Getting Started
 
